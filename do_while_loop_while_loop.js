@@ -17,4 +17,4 @@ do {
   out += j;
   j++;
 }
-while (ij< 5);
+while (j< 5);
