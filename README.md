@@ -1,2 +1,2 @@
 # jsProject
-table.js contains the code in "new_branch" branch
+Assignment codes in "new_branch" branch
