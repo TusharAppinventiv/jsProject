@@ -6,4 +6,4 @@ console.log(a);
 setTimeout(() => {
   console.log(b);;
 }, 1500);
-console.log(c); JS
+console.log(c)
