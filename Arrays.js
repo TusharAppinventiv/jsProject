@@ -7,8 +7,8 @@ for(let i = 0 ; i < numbers.length ; i++){
 }
 
 //.sort sorts the given array whether in ascending or descending order
-const num = [81, 121, 144, 25];
-const Arr = num.sort(function(a, b){return a-b});
+const num1 = [81, 121, 144, 25];
+const Arr1 = num.sort(function(a, b){return a-b});
 //const Arr = num.sort(function(a, b){return b-a}); for sorting in descending order
 for(let i = 0 ; i < num.length ; i++){
     console.log(Arr[i]);
