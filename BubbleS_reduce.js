@@ -1,4 +1,4 @@
-c//Bubble Sort using reduce function
+//Bubble Sort using reduce function
 const bubbleSort = (arr) => {
     return arr.reduce((acc, val, i, arr) => {
       for (let j = 0; j < arr.length; j++) {
