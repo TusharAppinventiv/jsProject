@@ -1,7 +1,9 @@
 function delayedLog() {
+    console.log("Tushar ");
     setTimeout(() => {
-      console.log("This message is delayed by 2 seconds.");
+      console.log(22);
     }, 2000);
+    console.log("Vatsa");
   }
   
   delayedLog();
